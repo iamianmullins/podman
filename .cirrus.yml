@@ -1267,3 +1267,5 @@ release_test_task:
     clone_script: *get_gosrc
     setup_script: *setup
     main_script: *main
+# SOME COMMENTS FOR TEST
+
